@@ -48,3 +48,4 @@ def self.new_from_filename
   song
 end
 
+end
