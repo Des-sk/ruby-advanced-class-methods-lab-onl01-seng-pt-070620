@@ -38,7 +38,8 @@ class Song
 end 
 
 def self.alphabetical
+  @@all.collect do |name| song.name
   self.sort_by {|song| song.name.alphabetical}
 end
-
+people = rows.collect do |row|
 end
